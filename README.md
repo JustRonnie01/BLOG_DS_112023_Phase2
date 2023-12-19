@@ -1,1 +1,9 @@
 # BLOG_DS_112023_Phase2
+
+It’s currently the 5th week here in the Data Science program at the Flatiron School. I was made aware of this school from since 2015 and was completely sold on coming here. Fast forward to Dec 2023’ and I’m now enrolled full time and in person. As difficult as this bootcamp is, it’s only phase 2 and I am already very well equipped to re-enter the job market with more skills than I had 2 months ago. Despite this, it’s not without the apparent sacrifice of maximizing every cell of your brain to be able to keep up with the accelerated pace. For example, being capable of seeing this line “most_liked_photo = df[df['Type'] == 'Photo'].nlargest(1, 'like')” and being able to explain its significance to the professor or the class on the spot is part of a normal day. 
+
+Now we are currently head first into the probability statistics which is entirely new to me. I still find calculus much more difficult but with the speed of learning 2-3 new distributions a day it can be a lot. Despite this to say that I cant help but to feel like this camp is where I belong. I feel like I've found my tribe. Surrounded by like-minded individuals who share my passion for data science, I'm constantly inspired and motivated. Sure, the pace is fast, and the work is challenging, but I'm learning to embrace the discomfort just as Flatiron teaches.
+
+As I delve deeper into statistics, I'm starting to see the beauty in the numbers. It's like uncovering a hidden language that reveals insights into the world around us. And while calculus still intimidates me, I'm starting to grasp the concepts, one distribution at a time.
+
+This journey has been about more than just learning new skills; it's about discovering a new part of myself. I've found a sense of purpose and belonging that I didn't know was possible. So, bring on the challenges and the late nights spent wrangling data! I'm ready to embrace this adventure and see where it takes me.
